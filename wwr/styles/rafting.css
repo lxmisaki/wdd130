@@ -59,6 +59,10 @@ nav a {
     font-weight: bold;
 }
 
+nav a:hover {
+    color: var(--accent2-color);
+}
+
 /* Headings */
 h1,
 h2 {
